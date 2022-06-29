@@ -4,13 +4,13 @@ body, .region-bottom, .region-footer {
     margin-left: auto !important;
     margin-right: auto !important;
     max-width: 1300px;
+    background:#373737;
 }
 
-@media (max-width: 1000px) {
-body {
-    overflow: hidden;
+#main {
+    background-color: white;
 }
-}
+
 
 #header {
     display: none;
@@ -110,7 +110,6 @@ a.donate-a {
     text-decoration: none !important;
     background-color: #e0004d;
     padding: 25px;
-    min-height: 62px;
     font-weight: 600;
     font-size: 1em;
     width: 200px;
