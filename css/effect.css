@@ -187,13 +187,13 @@ a.donate-a:hover {
     }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1183px) {
     .blue-tri::after {
         height: 6%;
     }
 }
 
-@media (max-width: 869px) {
+@media (max-width: 950px) {
     .blue-tri::after {
         height: 5%;
     }
