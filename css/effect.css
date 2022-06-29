@@ -1,10 +1,10 @@
 /* hide elements */
 
-body, .region-bottom, .region-footer {
+body {
     margin-left: auto !important;
     margin-right: auto !important;
     max-width: 1300px;
-    background:#373737;
+    background-color:#373737 !important;
 }
 
 #main {
