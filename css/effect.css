@@ -1,9 +1,15 @@
 /* hide elements */
 
-#page, .region-bottom, .region-footer {
-    margin-left: auto;
-    margin-right: auto;
+body, .region-bottom, .region-footer {
+    margin-left: auto !important;
+    margin-right: auto !important;
     max-width: 1300px;
+}
+
+@media (max-width: 1000px) {
+body {
+    overflow: hidden;
+}
 }
 
 #header {
