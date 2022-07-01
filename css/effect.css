@@ -169,7 +169,7 @@ a.donate-a:hover {
 
 /* banner quote */
 
-.banner-quote p {
+.banner-quote h2 {
     text-align: center;
     font-size: 2em;
     color: white;
@@ -384,7 +384,7 @@ a.donate-a:hover {
     margin: 30px 0;
 }
 
-.video-contain h1 {
+.video-contain 2 {
     text-align: center;
     font-size: 1.5em !important;
     font-weight: 600;
